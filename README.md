@@ -15,12 +15,18 @@ Follow the instructions for your platform [here](https://github.com/npm/npm).
 
 ````
 npm install
+or
+yarn install
 ````
 
 3. Boot the HTTP server
 
 ````
-npm run server
+npm start
+or yarn start
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
+
+You can shut down the server and your timers will still track the time! This means you only have to have the app open to
+start and/or start servers.
