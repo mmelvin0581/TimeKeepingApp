@@ -5,7 +5,7 @@ you track time for projects. It uses a local file to read and write to.
 
 I use it to track time on free-lance projects.
 
-### Running the app
+## Running the app
 
 1. Ensure you have `npm` installed.
 
@@ -28,5 +28,6 @@ or yarn start
 
 The server is now running at [localhost:3000](localhost:3000)
 
+### Helpful Information
 You can shut down the server and your timers will still track the time! This means you only have to have the app open to
 start and/or start servers.
