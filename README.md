@@ -1,7 +1,7 @@
 # Time Keeper
 
-This is an app written in React and Node with Express that will help
-you track time for projects. It uses a local file to read and write to.
+This is an app written in React and Node with Express that will help you track time for projects. It reads/write from/to
+a local file. If you shut the server down or close the browser window your time will still be tracked!
 
 I use it to track time on free-lance projects.
 
