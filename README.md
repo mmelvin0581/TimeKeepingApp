@@ -23,7 +23,8 @@ yarn install
 
 ````
 npm start
-or yarn start
+or
+yarn start
 ````
 
 The server is now running at [localhost:3000](localhost:3000)
