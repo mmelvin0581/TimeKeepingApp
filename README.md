@@ -5,6 +5,8 @@ a local file. If you shut the server down or close the browser window your time 
 
 I use it to track time on free-lance projects.
 
+![image](https://user-images.githubusercontent.com/32582369/39540807-c910b7ac-4e11-11e8-85ce-57e6fbb33617.png)
+
 ## Running the app
 
 1. Ensure you have `npm` installed.
