@@ -33,4 +33,4 @@ The server is now running at [localhost:3000](localhost:3000)
 
 ### Helpful Information
 You can shut down the server and your timers will still track the time! This means you only have to have the app open to
-start and/or start servers.
+start and/or stop servers.
